@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/CharlesPikachu/WechatHelper)](https://repl.it/github/CharlesPikachu/WechatHelper)
 # WechatHelper
 ```sh
 WechatHelper written in python.  
